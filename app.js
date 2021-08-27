@@ -2,6 +2,7 @@
 // CHAPTER NO1
 
 // QUESTION 1
+// this is edit on 28 aug
 
 // var a = "welcome to java script world Dear"
 //     alert(a)
