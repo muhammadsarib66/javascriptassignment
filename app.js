@@ -2,7 +2,6 @@
 // CHAPTER NO1
 
 // QUESTION 1
-// this is edit on 28 aug
 
 // var a = "welcome to java script world Dear"
 //     alert(a)
@@ -399,4 +398,159 @@
 // chapter12 to 13
 
 // task 1
+
+// let a = +prompt(`enter num`)
+// let b = +prompt(`enter num`)
+
+// if (a == b) {
+
+//   document.write(`equal`)
+// }
+// else if (a > 0 && b > 1) {
+//   document.write(a + b)
+// }
+// else (
+//   document.write(`error`)
+// )
+
+// task 2
+
+// let a = +prompt(`enter desire number`)
+
+// if (a == 0) {
+//   alert(`ZZero`)
+
+// }
+// else if (a > 0) {
+//   alert(`positive`)
+
+// }
+// else if (a < -1) {
+//   alert(`negative`)
+
+// }
+// else { alert(`enter coreect number`) }
+
+// task 3
+
+// var greeting;
+// var hour = 13;
+// if (hour < 18) {
+//   greeting = "Good day"; { ghlt code write kia hua }
+// else if
+// greeting = "Good evening";
+// }
+
+// task 4
+
+// var hour = 13;
+// if (hour < 18) {
+//   alert(`good evening`)
+// }
+// else if (hour >= 18) {
+//   alert(`good night`)
+// }
+
+// tASK 5
+
+// var user = prompt(`ENTER PASSWORD`, "YOU CAN USE ONLY VARIABLES")
+// var pass = `12GoodNews`
+
+// if (user == pass) {
+//   alert(`Congratulations you enter correct pass`)
+// }
+// else {
+//   alert(`Please enter correct pass`)
+// }
+
+// chapter 17 start
+
+// task 1
+
+// var StNames = []
+// console.log(StNames)
+
+// // task2
+
+// var object = []
+// var objectnew = new array()
+
+// // task 3 
+
+// var string = ['string']
+
+
+// // task 4 
+// var bolean = [true]
+
+// // task5
+
+// var number = [1]
+
+// // task 6
+
+// var mixdarray = [1, true, "string"]
+
+// task 7
+
+// var a = ["QUALIFICATIONS"]
+// document.write(a)
+// var st = ["SSC", "HSC", " BCS", "BS", " BCOM", " MS", " M. Phil", " PhD",]
+
+// document.write("<ol>")
+// for (let q = 0; q < 8; q++) {
+
+
+//   document.write("<li>" + st[q] + "</li>")
+
+// }
+// document.write("</ol>")
+
+// TASK 8
+
+// var st = [["ali", 320],
+// ["ahmed", 240], ["harry", 400]]
+// var p = 0
+// for (let q = 0; q < 3; q++) {
+//   for (let w = 0; w < 2; w++) {
+
+
+//     document.write("score of " + st[q][w])
+//   }
+//   document.write("<br>")
+// }
+
+
+
+// task 10
+
+// a = [340, 250, 390, 190, 400]
+// document.write("scores of student:  " + a + "<br><br>")
+// a.sort()
+// document.write("Ordered scores of student " + a)
+
+// task 11
+
+// var cities = ["CITIES: "]
+// document.write(cities + "<br><br>")
+// var names = ["HYDERABD", "SIALKOT", "KARACHI", "NAWABSHAH"]
+// document.write(names + "<br><br>")
+// var citie = ["SELECTED CITIES LIST: "]
+// names.[1, 2]
+
+
+// task 12
+
+// a = "Array"
+// document.write("<h1>" + a + "</h1>")
+// var arr = ["This ", "is ", "my ", "cat "];
+
+// document.write(arr + "<br><br>")
+// a = "string"
+// document.write("<h1>" + a + "</h1>")
+// for (let b = 0; b < 4; b++) {
+
+//   document.write(arr[b])
+// }
+
 
