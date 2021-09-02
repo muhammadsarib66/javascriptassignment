@@ -520,7 +520,37 @@
 //   document.write("<br>")
 // }
 
+// task 9
 
+//   var a = ["RED", "GREEN", "BLUE", "PINK"]
+//   document.write(a + "<br><br>")
+
+//   var start = prompt("what color you want to add in start")
+//   a.unshift(start)
+//   document.write(a + "<br><br>")
+
+//   var end = prompt("what color you want to add in END")
+//   a.push(end)
+//   document.write(a + "<br><br>")
+
+//   var b = ["NEW COLOR1 ", "DUSRA COLOR"]
+//   var c = b.concat(a)
+//   document.write(c + "<br><br>")
+
+//   a.shift()
+//   document.write(a + "<br><br>")
+
+//   a.pop()
+//   document.write(a + "<br><br>")
+
+// var a = ["jaan","sdad","why","hello"]
+// document.write(a + "<br><br>")
+
+// a.splice(+prompt("index btao"), +prompt("kuch delete krna hai "+ "only 0 and number allowed"), prompt("colors k name btao"))
+// document.write(a + "<br><br>")
+
+// a.splice(+prompt("which index u want to delete"), +prompt("how many color want to delete") )
+// document.write(a + "<br><br>")
 
 // task 10
 
@@ -553,4 +583,26 @@
 //   document.write(arr[b])
 // }
 
+
+// task 13
+
+// var d = "Devices"
+// var a = ["Keyboard ","Mouse ","Monitor ","Printer "]
+// document.write(d + "<br>"+ a + "<br>  <br>" )
+// a.forEach(function(value){
+    
+//     document.write(" out :<br>"+  value + "<br>")
+    
+// })
+
+// task 14
+
+// var d = "Devices"
+// var a = ["Keyboard ","Mouse ","Monitor ","Printer "]
+// document.write(d + "<br>"+ a + "<br>  <br>" )
+// a.reverse()
+// a.forEach(function(value){
+    
+//     document.write(" out :<br>"+  value + "<br>")
+// })
 
