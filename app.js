@@ -606,3 +606,10 @@
 //     document.write(" out :<br>"+  value + "<br>")
 // })
 
+        // task 15 last question of ex 16
+
+
+        // var manufaactures = ['APPLE','SAMSUNG','OPPO','MOTOROLA' ]
+        // var b = ["menu"]
+        // document.write(`<select><option> ${manufaactures[0]} </option>,<option> ${manufaactures[1]} </option>
+        //     <option> ${manufaactures[2]} </option>,<option> ${manufaactures[3]} </option> </select>` )
